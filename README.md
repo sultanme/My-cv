@@ -1,78 +1,171 @@
-# 👋 SULTAN ABDULRAHMAN ALMALKI  
-**Governance, Risk Management, and Compliance Specialist**  
-📍 Saudi Arabia | 📞 +966567953178 | ✉️ [sultan_1418_@hotmail.com](mailto:sultan_1418_@hotmail.com)  
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سيرة ذاتية - سلطان عبدالرحمن المالكي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 5px;
+            margin-top: 20px;
+            font-size: 1.8em;
+        }
+        h3 {
+            font-size: 1.4em;
+            margin-top: 15px;
+        }
+        p, ul {
+            margin: 10px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-info a {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .skills, .experience, .education, .certifications, .training, .languages, .achievements {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .skills ul, .experience ul, .education ul, .certifications ul, .training ul, .languages ul, .achievements ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>سلطان عبدالرحمن المالكي</h1>
+        <div class="contact-info">
+            <p>📍 السعودية | 📞 <a href="tel:+966567953178">+966567953178</a> | ✉️ <a href="mailto:sultan_1418_@hotmail.com">sultan_1418_@hotmail.com</a></p>
+        </div>
 
----
+        <div class="section profile">
+            <h2>الملف الشخصي</h2>
+            <p>خريج قانون من جامعة الملك عبدالعزيز بتقدير 4.47/5، وحاصل على شهادة محترف في الحوكمة وإدارة المخاطر والامتثال (GRC Professional). أمتلك خبرة عملية في الإشراف والتحليل الفني والامتثال. أسعى للحصول على فرصة لتقديم مهاراتي في منظمة ديناميكية مع تحقيق النمو المهني.</p>
+        </div>
 
-## **📄 PROFILE**  
-A Law graduate from **King Abdulaziz University** with a GPA of **4.47/5**, certified in **Governance, Risk Management, and Compliance (GRC Professional)**. Possessing hands-on experience in supervision, technical analysis, and compliance. Seeking an opportunity to contribute my skills to a dynamic organization while achieving professional growth.  
+        <div class="section skills">
+            <h2>المهارات الأساسية</h2>
+            <ul>
+                <li><strong>الحوكمة وإدارة المخاطر</strong>: تقييم المخاطر، سياسات الامتثال، التدقيق.</li>
+                <li><strong>المهارات الإدارية</strong>: قيادة الفريق، إدارة الأزمات، الإشراف على العمليات اليومية.</li>
+                <li><strong>المهارات التقنية</strong>: إتقان Microsoft Office Suite، تحليل Excel المتقدم، أدوات الحوكمة.</li>
+                <li><strong>المهارات الشخصية</strong>: التفكير التحليلي، حل المشكلات، التفاوض، التعلم الذاتي، العمل الجماعي.</li>
+            </ul>
+        </div>
 
----
+        <div class="section experience">
+            <h2>الخبرات العملية</h2>
+            <h3>مشرف مكتب أمامي – فندق كازابلانكا (2021 – 2023)</h3>
+            <ul>
+                <li>إدارة عمليات المكتب الأمامي لضمان الكفاءة وتعزيز رضا الضيوف.</li>
+                <li>مراجعة الفواتير للتأكد من دقتها وامتثالها.</li>
+                <li>الإشراف على جداول الموظفين ومراقبة التزامات الأداء.</li>
+                <li>حل مشكلات الموظفين والضيوف بفعالية وسرعة.</li>
+                <li>تدريب الموظفين الجدد لتحقيق المعايير التنظيمية.</li>
+                <li>تحمل المسؤولية الكاملة في غياب المدير العام.</li>
+            </ul>
+            <h3>مندوب مبيعات موسمي – موبايلي (موسم الحج) (2017)</h3>
+            <ul>
+                <li>تقديم المنتجات والخدمات بكفاءة خلال موسم الحج.</li>
+                <li>معالجة مخاوف العملاء وحل التحديات في بيئات عالية الضغط.</li>
+            </ul>
+        </div>
 
-## **💡 CORE SKILLS**  
-- **Governance and Risk Management**: Risk assessment, compliance policies, auditing.  
-- **Administrative Skills**: Team leadership, crisis management, daily operations supervision.  
-- **Technical Skills**: Proficient in Microsoft Office Suite, advanced Excel analysis, governance tools.  
-- **Soft Skills**: Analytical thinking, problem-solving, negotiation, self-learning, teamwork.  
+        <div class="section education">
+            <h2>التعليم</h2>
+            <h3>بكالوريوس في القانون – جامعة الملك عبدالعزيز (2020)</h3>
+            <ul>
+                <li>المعدل التراكمي: 4.47/5</li>
+                <li>جائزة التميز.</li>
+            </ul>
+        </div>
 
----
+        <div class="section certifications">
+            <h2>الشهادات</h2>
+            <ul>
+                <li>شهادة محترف في الحوكمة وإدارة المخاطر والامتثال (GRC Professional).</li>
+                <li>شهادة محترف إدارة السياسات المتكاملة (IPMP).</li>
+                <li>شهادة تدقيق الحوكمة وإدارة المخاطر والامتثال (GRC Audit).</li>
+            </ul>
+        </div>
 
-## **💼 PROFESSIONAL EXPERIENCE**  
+        <div class="section training">
+            <h2>البرامج التدريبية</h2>
+            <ul>
+                <li>برنامج حوكمة المؤسسات – غرفة الرياض.</li>
+                <li>برنامج تحليل الأعمال الافتراضي – Boston Consulting Group (مؤسسة مسك).</li>
+                <li>برنامج تمهير لسوق العمل.</li>
+                <li>برنامج محو الأمية الرقمية من مايكروسوفت.</li>
+                <li>كفاءات قاضي التنفيذ.</li>
+                <li>دور المحامي في القضايا الجنائية.</li>
+                <li>حماية الملكية الفكرية.</li>
+                <li>الهندسة الاجتماعية.</li>
+            </ul>
+        </div>
 
-### **Front Office Supervisor – Casablanca Hotel** (2021 – 2023)  
-- Managed front desk operations to ensure efficiency and enhance guest satisfaction.  
-- Verified and reviewed invoices for accuracy and compliance.  
-- Oversaw staff schedules and monitored performance commitments.  
-- Resolved employee and guest issues promptly and effectively.  
-- Trained new hires to meet organizational standards.  
-- Assumed full responsibility in the absence of the General Manager.  
+        <div class="section languages">
+            <h2>اللغات</h2>
+            <ul>
+                <li>العربية: اللغة الأم.</li>
+                <li>الإنجليزية: متقدم.</li>
+            </ul>
+        </div>
 
-### **Seasonal Sales Representative – Mobily (Hajj Season)** (2017)  
-- Delivered products and services efficiently during the Hajj season.  
-- Addressed customer concerns and resolved challenges in high-pressure environments.  
+        <div class="section achievements">
+            <h2>الإنجازات والاهتمامات</h2>
+            <ul>
+                <li>تحسين رضا الضيوف بنسبة 15% من خلال تحسين عمليات المكتب الأمامي.</li>
+                <li>تطوير سياسات الامتثال الداخلية التي قللت من الأخطاء التشغيلية.</li>
+                <li>شغف بتحليل المخاطر، أنظمة الحوكمة، واستراتيجيات الامتثال.</li>
+            </ul>
+        </div>
 
----
-
-## **🎓 EDUCATION**  
-### **Bachelor’s Degree in Law** – King Abdulaziz University (2020)  
-- **GPA**: 4.47/5  
-- **Excellence Award**.  
-
----
-
-## **📜 CERTIFICATIONS**  
-- **GRC Professional Certification**  
-- **Integrated Policy Management Professional (IPMP)**  
-- **GRC Audit Certification**  
-
----
-
-## **📚 TRAINING PROGRAMS**  
-- Enterprise Governance Program – Riyadh Chamber.  
-- Virtual Business Analysis Program – Boston Consulting Group (Misk Foundation).  
-- Tomouh Labor Market Training Program.  
-- Microsoft Digital Literacy Program.  
-- Competences of the Execution Judge.  
-- The Role of the Lawyer in Criminal Cases.  
-- Intellectual Property Protection.  
-- Social Engineering.  
-
----
-
-## **🌐 LANGUAGES**  
-- **Arabic**: Native.  
-- **English**: Advanced.  
-
----
-
-## **🏆 ACHIEVEMENTS & INTERESTS**  
-- Enhanced guest satisfaction by **15%** through improved front desk operations.  
-- Developed internal compliance policies that reduced operational errors.  
-- Passionate about risk analysis, governance systems, and compliance strategies.  
-
----
-
-### **🔗 Links**  
-- [LinkedIn](http://linkedin.com/in/sultan-almalki-grcp-grca-ipmp-97a725190)  
-
----
+        <div class="section links">
+            <h2>روابط</h2>
+            <p><a href="http://linkedin.com/in/sultan-almalki-grcp-grca-ipmp-97a725190" target="_blank">LinkedIn</a></p>
+        </div>
+    </div>
+</body>
+</html>
