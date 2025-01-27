@@ -1,15 +1,15 @@
-# SULTAN ABDULRAHMAN ALMALKI  
+# 👋 SULTAN ABDULRAHMAN ALMALKI  
 **Governance, Risk Management, and Compliance Specialist**  
-Saudi Arabia | +966567953178 | sultan_1418_@hotmail.com  
+📍 Saudi Arabia | 📞 +966567953178 | ✉️ [sultan_1418_@hotmail.com](mailto:sultan_1418_@hotmail.com)  
 
 ---
 
-## **PROFILE**  
-A Law graduate from King Abdulaziz University with a GPA of 4.47/5, certified in Governance, Risk Management, and Compliance (GRC Professional). Possessing hands-on experience in supervision, technical analysis, and compliance. Seeking an opportunity to contribute my skills to a dynamic organization while achieving professional growth.  
+## **📄 PROFILE**  
+A Law graduate from **King Abdulaziz University** with a GPA of **4.47/5**, certified in **Governance, Risk Management, and Compliance (GRC Professional)**. Possessing hands-on experience in supervision, technical analysis, and compliance. Seeking an opportunity to contribute my skills to a dynamic organization while achieving professional growth.  
 
 ---
 
-## **CORE SKILLS**  
+## **💡 CORE SKILLS**  
 - **Governance and Risk Management**: Risk assessment, compliance policies, auditing.  
 - **Administrative Skills**: Team leadership, crisis management, daily operations supervision.  
 - **Technical Skills**: Proficient in Microsoft Office Suite, advanced Excel analysis, governance tools.  
@@ -17,7 +17,7 @@ A Law graduate from King Abdulaziz University with a GPA of 4.47/5, certified in
 
 ---
 
-## **PROFESSIONAL EXPERIENCE**  
+## **💼 PROFESSIONAL EXPERIENCE**  
 
 ### **Front Office Supervisor – Casablanca Hotel** (2021 – 2023)  
 - Managed front desk operations to ensure efficiency and enhance guest satisfaction.  
@@ -33,21 +33,21 @@ A Law graduate from King Abdulaziz University with a GPA of 4.47/5, certified in
 
 ---
 
-## **EDUCATION**  
+## **🎓 EDUCATION**  
 ### **Bachelor’s Degree in Law** – King Abdulaziz University (2020)  
-- GPA: 4.47/5  
-- Excellence Award.  
+- **GPA**: 4.47/5  
+- **Excellence Award**.  
 
 ---
 
-## **CERTIFICATIONS**  
-- GRC Professional Certification  
-- Integrated Policy Management Professional (IPMP)  
-- GRC Audit Certification  
+## **📜 CERTIFICATIONS**  
+- **GRC Professional Certification**  
+- **Integrated Policy Management Professional (IPMP)**  
+- **GRC Audit Certification**  
 
 ---
 
-## **TRAINING PROGRAMS**  
+## **📚 TRAINING PROGRAMS**  
 - Enterprise Governance Program – Riyadh Chamber.  
 - Virtual Business Analysis Program – Boston Consulting Group (Misk Foundation).  
 - Tomouh Labor Market Training Program.  
@@ -59,13 +59,20 @@ A Law graduate from King Abdulaziz University with a GPA of 4.47/5, certified in
 
 ---
 
-## **LANGUAGES**  
-- Arabic: Native.  
-- English: Advanced.  
+## **🌐 LANGUAGES**  
+- **Arabic**: Native.  
+- **English**: Advanced.  
 
 ---
 
-## **ACHIEVEMENTS & INTERESTS**  
-- Enhanced guest satisfaction by 15% through improved front desk operations.  
+## **🏆 ACHIEVEMENTS & INTERESTS**  
+- Enhanced guest satisfaction by **15%** through improved front desk operations.  
 - Developed internal compliance policies that reduced operational errors.  
-- Passionate about risk analysis, governance systems, and compliance strategies.
+- Passionate about risk analysis, governance systems, and compliance strategies.  
+
+---
+
+### **🔗 Links**  
+- [LinkedIn](http://linkedin.com/in/sultan-almalki-grcp-grca-ipmp-97a725190)  
+
+---
